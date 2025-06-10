@@ -36,6 +36,16 @@ O site é composto por:
 - **style.css** - *Arquivo unico de estilização.*
 - **script.js** - *Comportamentos interativos com JavaScript.*
 
+## 🖼️ Imagens do Projeto
+
+### Página Inicial (`index.html`)
+![Página Inicial]()
+
+### Página de Projetos
+![Página Projetos]()
+
+### Página Extra
+![Página Extra]()
 
 ## 🚀 Como Executar Localmente
 
