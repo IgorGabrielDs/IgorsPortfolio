@@ -2,7 +2,7 @@
 
 ## 🌐 Acesse o projeto online
 
-👉 [Link para visualização do portfólio]() 
+👉 [Portfólio]() 
 
 ---
 
