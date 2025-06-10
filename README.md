@@ -39,7 +39,7 @@ O site é composto por:
 ## 🖼️ Imagens do Projeto
 
 ### Página Inicial (`index.html`)
-![Página Inicial]()
+![Página Inicial](https://imgur.com/a/4miK4n4)
 
 ### Página de Projetos
 ![Página Projetos]()
