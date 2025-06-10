@@ -1,7 +1,7 @@
 # 💼 IgorsPortfolio
 ## 🌐 Acesse o projeto online
 
-👉 [Link para o portfólio]() 
+👉 [Link para o portfólio](https://igorgabrields.github.io/Portfolio/) 
 
 ---
 
