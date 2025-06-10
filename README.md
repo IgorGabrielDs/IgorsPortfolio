@@ -1,4 +1,28 @@
-# IgorsPortfolio
-Portfolio profissional feito com (HMTL | CSS | JavaScript) feito como um trabalho para o primeiro período de Introdução a computação na CESAR SCHOOL. 
+# 💼 IgorsPortfolio
 
-Site dividido em 3 bases .html (index/inicio/projetos/extra) um style.css e um .js
+## 🌐 Acesse o projeto online
+
+👉 [Link para visualização do portfólio]() 
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📁 Estrutura do Projeto
+
+O site é composto por:
+
+- **index.html** - *Página inicial do portfólio.*
+- **inicio.html** - *Página com informações sobre o autor.*
+- **projetos.html** - *Página de exibição de projetos realizados.*
+- **extra.html** - *Página com conteúdo adicional ou curiosidades.*
+- **style.css** - *Arquivo principal de estilização.*
+- **script.js** - *Comportamentos interativos com JavaScript.*
+
+
